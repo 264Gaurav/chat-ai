@@ -4,6 +4,7 @@ This is the [assistant-ui](https://github.com/Yonom/assistant-ui) starter projec
 
 First, add your OpenAI API key to `.env.local` file:
 
+
 ```
 OPENAI_API_KEY=sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
